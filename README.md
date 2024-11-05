@@ -1,5 +1,5 @@
 # KLayout Duplicate Shape Detection and Deletion Scripts
-This repository contains Python scripts for KLayout designed to detect and optionally delete overlapping duplicate shapes in GDS layouts. These tools help in ensuring layout integrity by identifying and removing redundant shapes that may cause fabrication or simulation issues.
+This repository contains Python scripts for KLayout designed to detect and optionally delete overlapping duplicate shapes in GDS layouts. These tools help in ensuring layout integrity by identifying and removing redundant shapes that may cause fabrication  issues.
 Features
 
 * Detection Only Mode: Identify overlapping duplicate shapes across all layers or specific layers.
